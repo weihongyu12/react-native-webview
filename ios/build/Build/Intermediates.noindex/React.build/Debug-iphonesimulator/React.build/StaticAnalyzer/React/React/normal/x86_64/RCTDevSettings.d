@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/weihongyu/Documents/webview/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/weihongyu/Documents/webview/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/weihongyu/Documents/webview/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

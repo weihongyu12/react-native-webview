@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c6a7853b87bf8b38c9732d28293308c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/caabf6113f8a3a4b793a9ba4a1637099/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/363f9befb1b9e45442c1a368a5d355a8/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/d41bd73bf1dfb01fd73e4d83c29fdd05/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/87f8c568b578e9077d26bc1c9a5bca23/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/b1a8d2cb8efd8dadf78a9bcf6b392bda/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5c09f6ed049e352867d22fbc5ebbc0f3/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/9e0a9c9a3c3cf2dad6b451269569e497/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/042a818514e120970529031a61dbd1fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/f1450592387fcd75993b564dae47426a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6a58d14ef816c2646008a9f4fb492938/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c6a7853b87bf8b38c9732d28293308c0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c6a7853b87bf8b38c9732d28293308c0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/caabf6113f8a3a4b793a9ba4a1637099/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/caabf6113f8a3a4b793a9ba4a1637099/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/b1a8d2cb8efd8dadf78a9bcf6b392bda/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/b1a8d2cb8efd8dadf78a9bcf6b392bda/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5c09f6ed049e352867d22fbc5ebbc0f3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5c09f6ed049e352867d22fbc5ebbc0f3/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.webview.MainActivity
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f3025591db9ba28aecb1733c6793bd0d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c6a7853b87bf8b38c9732d28293308c0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c6a7853b87bf8b38c9732d28293308c0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/caabf6113f8a3a4b793a9ba4a1637099/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/caabf6113f8a3a4b793a9ba4a1637099/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/363f9befb1b9e45442c1a368a5d355a8/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/363f9befb1b9e45442c1a368a5d355a8/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/d41bd73bf1dfb01fd73e4d83c29fdd05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/d41bd73bf1dfb01fd73e4d83c29fdd05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/87f8c568b578e9077d26bc1c9a5bca23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/87f8c568b578e9077d26bc1c9a5bca23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/b1a8d2cb8efd8dadf78a9bcf6b392bda/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/b1a8d2cb8efd8dadf78a9bcf6b392bda/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/9e0a9c9a3c3cf2dad6b451269569e497/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/9e0a9c9a3c3cf2dad6b451269569e497/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/042a818514e120970529031a61dbd1fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/042a818514e120970529031a61dbd1fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/f1450592387fcd75993b564dae47426a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/f1450592387fcd75993b564dae47426a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6a58d14ef816c2646008a9f4fb492938/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/weihongyu/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6a58d14ef816c2646008a9f4fb492938/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/weihongyu/Documents/webview/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
